@@ -11,5 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "zenn-cli": "^0.1.137"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.3",
+    "prettier-plugin-md-nocjsp": "^1.5.1"
   }
 }

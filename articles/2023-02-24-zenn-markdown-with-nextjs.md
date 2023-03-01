@@ -91,7 +91,22 @@ import Head from "next/head";
 
 <Head>
   <script src="https://embed.zenn.studio/js/listen-embed-event.js"></script>
-</Head>;
+</Head>
+```
+
+### 追記（2023/3/1）
+
+zenn-markdown-html のバージョンアップにより、埋め込み要素がレンダリングされない事象が発生しました。
+
+https://github.com/zenn-dev/zenn-editor/pull/420
+
+上記の PR で `markdownToHtml` に `embedOrigin` を追加したようで、今までと同じ様に動作させるためには、以下の記述を追記します。
+
+```diff tsx
+- const content = await markdownToHtml(post.content || '')
++ const content = await markdownToHtml(post.content || '', {
++   embedOrigin: "https://embed.zenn.studio",
++ })
 ```
 
 ## Zennのマークダウン記法

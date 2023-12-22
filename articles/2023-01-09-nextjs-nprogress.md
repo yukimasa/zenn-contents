@@ -1,9 +1,9 @@
 ---
 title: "Next.jsで画面遷移時にプログレスバーを表示させる"
-emoji: "🙆"
+emoji: "🪬"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["nextjs"]
-published: false
+published: true
 ---
 
 ## はじめに

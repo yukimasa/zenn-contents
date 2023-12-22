@@ -1,9 +1,9 @@
 ---
 title: "Alfredの有料版を買ったので作業効率を上げるための各種設定メモ"
-emoji: "📝"
+emoji: "🪬"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["alfred"]
-published: false
+published: true
 ---
 
 ## はじめに

@@ -1,9 +1,9 @@
 ---
 title: "リポジトリ毎の Git ユーザー情報を自動で切り替える"
-emoji: "👾"
+emoji: "🪬"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["git"]
-published: false
+published: true
 ---
 
 この記事は [ミライトデザイン Advent Calendar 2023](https://qiita.com/advent-calendar/2023/miraito-inc) の 2 日目の記事です。

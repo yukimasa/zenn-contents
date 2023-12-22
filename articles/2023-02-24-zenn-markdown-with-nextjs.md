@@ -1,9 +1,9 @@
 ---
 title: "Next.js × microCMSでZennのマークダウンを表示するブログの作り方"
-emoji: "👏"
+emoji: "🪬"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["nextjs", "microcms", "zenn", "markdown"]
-published: false
+published: true
 ---
 
 ## はじめに
@@ -91,7 +91,7 @@ import Head from "next/head";
 
 <Head>
   <script src="https://embed.zenn.studio/js/listen-embed-event.js"></script>
-</Head>
+</Head>;
 ```
 
 ### 追記（2023/3/1）

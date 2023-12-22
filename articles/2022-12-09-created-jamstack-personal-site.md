@@ -1,9 +1,9 @@
 ---
 title: "Next.jsでJamstackな個人サイトを作った"
-emoji: "💭"
+emoji: "🪬"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["nextjs", "microcms", "vercel"]
-published: false
+published: true
 ---
 
 この記事は [ミライトデザイン Advent Calendar 2022](https://qiita.com/advent-calendar/2022/miraito-inc) の9日目の記事です。

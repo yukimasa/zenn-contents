@@ -1,9 +1,9 @@
 ---
 title: "Tocbot を使用し Next.js で構築したブログに目次を追加する"
-emoji: "📋"
+emoji: "🪬"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["nextjs"]
-published: false
+published: true
 ---
 
 この記事は [ミライトデザイン Advent Calendar 2023](https://qiita.com/advent-calendar/2023/miraito-inc) の 3 日目の記事です。

@@ -1,9 +1,9 @@
 ---
 title: "vercelのog image generationを使用して、Next.jsで動的にOG画像を自動生成する"
-emoji: "🐕"
+emoji: "🪬"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["nextjs", "vercel"]
-published: false
+published: true
 ---
 
 この記事は [ミライトデザイン Advent Calendar 2022](https://qiita.com/advent-calendar/2022/miraito-inc) の23日目の記事です。

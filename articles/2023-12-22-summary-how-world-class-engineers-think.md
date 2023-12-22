@@ -1,9 +1,9 @@
 ---
 title: "「世界一流エンジニアの思考法」要約"
-emoji: "📝"
+emoji: "🪬"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["エンジニア", "生産性"]
-published: false
+published: true
 ---
 
 この記事は [ミライトデザイン Advent Calendar 2023](https://qiita.com/advent-calendar/2023/miraito-inc) の 22 日目の記事です。
